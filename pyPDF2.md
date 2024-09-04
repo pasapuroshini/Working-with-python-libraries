@@ -1,6 +1,6 @@
 # Manage pdf using python
 
-<img width="1470" alt="Screenshot 2024-09-04 at 10 26 55 AM" src="https://github.com/user-attachments/assets/ab652f02-4bc4-46da-b74a-70c8c3adef4f">PDF: portable document format
+PDF: portable document format
 extension:name.pdf
 =>Library ( in python)
 
